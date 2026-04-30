@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const Company = require("../models/Company");
+const Company = require("../models/company");
 const Lead = require("../models/lead");
 const authMiddleware = require("../middleware/AuthMiddleware");
 
