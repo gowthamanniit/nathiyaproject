@@ -1,6 +1,6 @@
 const router = require("express").Router();
 const Company = require("../models/Company");
-const Lead = require("../models/Lead");
+const Lead = require("../models/lead");
 const authMiddleware = require("../middleware/AuthMiddleware");
 
 router.post("/", authMiddleware, async (req, res) => {
