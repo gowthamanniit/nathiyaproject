@@ -1,0 +1,42 @@
+.leads-page {
+  margin-left: 220px;
+  padding: 90px 30px;
+}
+
+.lead-controls {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.lead-controls input,
+.lead-controls select {
+  padding: 10px;
+}
+
+.lead-controls button {
+  padding: 10px 15px;
+  background: #2563eb;
+  color: white;
+  border: none;
+}
+
+table {
+  width: 100%;
+  background: white;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 15px;
+  border: 1px solid #ddd;
+}
+
+td button {
+  margin-left: 10px;
+  background: crimson;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+}

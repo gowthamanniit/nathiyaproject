@@ -1,0 +1,22 @@
+.tasks-page {
+  margin-left: 220px;
+  padding: 90px 30px;
+}
+
+.task-form {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.task-form input,
+.task-form select {
+  padding: 10px;
+}
+
+.task-form button {
+  padding: 10px 15px;
+  background: #2563eb;
+  color: white;
+  border: none;
+}

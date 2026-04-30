@@ -1,0 +1,21 @@
+.companies-page {
+  margin-left: 220px;
+  padding: 90px 30px;
+}
+
+.company-form {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.company-form input {
+  padding: 10px;
+}
+
+.company-form button {
+  padding: 10px 15px;
+  background: #2563eb;
+  color: white;
+  border: none;
+}

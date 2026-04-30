@@ -1,0 +1,15 @@
+.company-detail-page {
+  margin-left: 220px;
+  padding: 90px 30px;
+}
+
+.company-info {
+  background: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+.company-detail-page h2 {
+  margin-bottom: 15px;
+}
