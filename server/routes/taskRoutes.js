@@ -1,6 +1,6 @@
 const router = require("express").Router();
 const Task = require("../models/Task");
-const Lead = require("../models/lead");
+const Lead = require("../models/Lead");
 const authMiddleware = require("../middleware/AuthMiddleware");
 
 router.post("/", authMiddleware, async (req, res) => {
